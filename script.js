@@ -91,7 +91,7 @@ var swiper = new Swiper(".product-slider", {
     },
     breakpoints: {
         0: {
-            slidesPerView: 1,
+            slidesPerView: 3,
         },
         550: {
           slidesPerView: 2,
@@ -106,7 +106,7 @@ var swiper = new Swiper(".product-slider", {
 });
 
 var swiper = new Swiper(".review-slider", {
-    slidesPerView: 1,
+    slidesPerView: 3,
     loop:true,
     spaceBetween: 10,
     autoplay: {
