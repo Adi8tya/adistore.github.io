@@ -106,7 +106,7 @@ var swiper = new Swiper(".product-slider", {
 });
 
 var swiper = new Swiper(".review-slider", {
-    slidesPerView: 3,
+    slidesPerView: 1,
     loop:true,
     spaceBetween: 10,
     autoplay: {
