@@ -333,11 +333,11 @@ header.active{
 }
 
 .products .product-slider .slide .icons a{
-    height:5rem;
-    width:5rem;
-    line-height: 5rem;
+    height:4rem;
+    width:4rem;
+    line-height: 4rem;
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.8rem;
     border-radius: 50%;
     background: var(--black-color);
     color:var(--white-color);
