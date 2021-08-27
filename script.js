@@ -78,7 +78,7 @@ setInterval(function(){
 },1000);
 
 var swiper = new Swiper(".product-slider", {
-    slidesPerView: 1,
+    slidesPerView: 3,
     loop:true,
     spaceBetween: 10,
     autoplay: {
@@ -91,7 +91,7 @@ var swiper = new Swiper(".product-slider", {
     },
     breakpoints: {
         0: {
-            slidesPerView: 3,
+            slidesPerView: 1,
         },
         550: {
           slidesPerView: 2,
