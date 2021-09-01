@@ -667,6 +667,7 @@ header.active{
 
     section{
         padding:1.5rem;
+        overflow-x : hidden;
     }
 
     .home .content h3{
